@@ -1,16 +1,5 @@
 # Shubh's Profile
 
-## 📊 GitHub Stats
-
-<span>
-<a href="https://github.com/Shubh-Raj">
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Raj&layout=compact&langs_count=8&theme=github_dark&border_color=404040" alt="Shubh's Github Top Languages" />
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=Shubh-Raj&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Shubh's Github Stats" />
-</a>
-</span>
-
----
-
 ## 📈 Coding Profiles
 
 <span>
@@ -21,6 +10,18 @@
 <img height="316" src="https://leetcard.jacoblin.cool/shubhraj625?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Shubh's Leetcode Stats"/>
 </a>
 </span>
+
+---
+
+## 📊 GitHub Stats
+
+<span>
+<a href="https://github.com/Shubh-Raj">
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Raj&layout=compact&langs_count=8&theme=github_dark&border_color=404040" alt="Shubh's Github Top Languages" />
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Shubh-Raj&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Shubh's Github Stats" />
+</a>
+</span>
+
 
 ---
 
