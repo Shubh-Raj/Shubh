@@ -4,7 +4,7 @@
 
 <span>
 <a href="https://codeforces.com/profile/shubhraj625">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=shubhraj625&theme=github_dark&force_username=true&border_color=404040" alt="Ankit Singh Sisodya Codeforces stats"/>
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=shubhraj625&theme=github_dark&force_username=true&border_color=404040" alt="Shubh's Codeforces stats"/>
 </a>
 <a href="https://leetcode.com/u/shubhraj625/">
 <img height="316" src="https://leetcard.jacoblin.cool/shubhraj625?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Shubh's Leetcode Stats"/>
